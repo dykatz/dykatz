@@ -1,16 +1,17 @@
-## Hi there 👋
+## Well hello friends!
 
-<!--
-**dykatz/dykatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dylan, and I am a software engineer.
 
-Here are some ideas to get you started:
+I have experience working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web apps
+- Desktop apps
+- Front end
+- Back end
+- Monoliths
+- Microservices
+- Internal projects
+- Consumer facing products
+- Machine Learning
+
+On rare occasion, I put personal projects here.
